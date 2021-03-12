@@ -8,7 +8,7 @@ import Rights from './components/power/Rights.vue'
 import Roles from './components/power/Roles.vue'
 import Cate from './components/goods/cate.vue'
 import Params from './components/goods/params.vue'
-import List from './components/goods/list.vue'
+import List from './components/goods/List.vue'
 import Add from './components/goods/Add.vue'
 
 Vue.use(VueRouter)
